@@ -1,0 +1,18 @@
+{
+  "kind": "collectionType",
+  "collectionName": "list_vacancies",
+  "info": {
+    "singularName": "list-vacancie",
+    "pluralName": "list-vacancies",
+    "displayName": "list-vacancie"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "openVacancies": {
+      "type": "json"
+    }
+  }
+}
